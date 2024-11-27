@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "conteudo": "Analu, papai te ama muito!",
+      "autoria": "BraytnerB.",
+      "modelo": "modelo2",
+      "id": 1
+    },
+    {
+      "conteudo": "Vocês são meu tudo! Amo vocês!",
+      "autoria": "Papai!",
+      "modelo": "modelo3",
+      "id": 2
+    },
+    {
+      "conteudo": "Mô, te amo muito, obrigado por tudo!",
+      "autoria": "Braytner Bruno",
+      "modelo": "modelo1",
+      "id": 3
+    }
+  ]
+}
